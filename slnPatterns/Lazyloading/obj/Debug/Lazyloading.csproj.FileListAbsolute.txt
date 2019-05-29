@@ -1,0 +1,7 @@
+D:\code\Design_patterns\slnPatterns\Lazyloading\bin\Debug\Lazyloading.exe.config
+D:\code\Design_patterns\slnPatterns\Lazyloading\bin\Debug\Lazyloading.exe
+D:\code\Design_patterns\slnPatterns\Lazyloading\bin\Debug\Lazyloading.pdb
+D:\code\Design_patterns\slnPatterns\Lazyloading\obj\Debug\Lazyloading.csprojAssemblyReference.cache
+D:\code\Design_patterns\slnPatterns\Lazyloading\obj\Debug\Lazyloading.csproj.CoreCompileInputs.cache
+D:\code\Design_patterns\slnPatterns\Lazyloading\obj\Debug\Lazyloading.exe
+D:\code\Design_patterns\slnPatterns\Lazyloading\obj\Debug\Lazyloading.pdb
