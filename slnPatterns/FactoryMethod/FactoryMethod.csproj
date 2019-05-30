@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2\AzusCellPhone.cs" />
+    <Compile Include="2\AzusFactory.cs" />
+    <Compile Include="2\CellPhone.cs" />
+    <Compile Include="2\CellPhoneFactory.cs" />
+    <Compile Include="2\Iphone.cs" />
+    <Compile Include="2\IphoneFactory.cs" />
     <Compile Include="CardFactory.cs" />
     <Compile Include="CreditCard.cs" />
     <Compile Include="PlatinumCreditCard.cs" />
@@ -55,5 +61,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
